@@ -21,3 +21,7 @@ A babel config for Trend Micro Frontend.
       ]
   }
   ```
+
+## License
+
+MIT
