@@ -24,7 +24,6 @@ module.exports = function(api) {
             '@babel/plugin-proposal-do-expressions',
 
             // Stage 2
-            '@babel/plugin-proposal-decorators',
             '@babel/plugin-proposal-function-sent',
             '@babel/plugin-proposal-export-namespace-from',
             '@babel/plugin-proposal-numeric-separator',
