@@ -24,7 +24,7 @@ module.exports = function(api) {
             '@babel/plugin-proposal-do-expressions',
 
             // Stage 2
-            ['@babel/plugin-proposal-decorators', { 'legacy': true }],
+            '@babel/plugin-proposal-decorators',
             '@babel/plugin-proposal-function-sent',
             '@babel/plugin-proposal-export-namespace-from',
             '@babel/plugin-proposal-numeric-separator',
@@ -33,7 +33,7 @@ module.exports = function(api) {
             // Stage 3
             '@babel/plugin-syntax-dynamic-import',
             '@babel/plugin-syntax-import-meta',
-            ['@babel/plugin-proposal-class-properties', { 'loose': true }],
+            '@babel/plugin-proposal-class-properties',
             '@babel/plugin-proposal-json-strings',
         ]
     };
