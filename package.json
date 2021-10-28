@@ -1,6 +1,6 @@
 {
   "name": "@trendmicro/babel-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A babel config for Trend Micro Frontend.",
   "main": "index.js",
   "repository": {
