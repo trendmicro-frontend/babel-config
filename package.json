@@ -1,6 +1,6 @@
 {
   "name": "@trendmicro/babel-config",
-  "version": "1.0.0-alpha",
+  "version": "1.0.0",
   "description": "A babel config for Trend Micro Frontend.",
   "main": "index.js",
   "repository": {
@@ -43,7 +43,7 @@
     "@babel/plugin-proposal-throw-expressions": "^7.0.0",
     "@babel/plugin-syntax-dynamic-import": "^7.0.0",
     "@babel/plugin-syntax-import-meta": "^7.0.0",
-    "semver": "^5.6.0"
+    "semver": "^7.3.5"
   },
   "peerDependencies": {
     "@babel/core": "^7.0.0"
