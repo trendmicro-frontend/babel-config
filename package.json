@@ -13,14 +13,7 @@
     "config",
     "trendmicro"
   ],
-  "author": "Cheton Wu <cheton_wu@trendmicro.com>",
-  "contributors": [
-    {
-      "name": "Cheton Wu",
-      "email": "cheton_wu@trendmicro.com",
-      "url": "https://github.com/cheton"
-    }
-  ],
+  "author": "Cheton Wu",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/trendmicro-frontend/babel-config/issues"
